@@ -1,0 +1,5 @@
+{
+  "name": "Copy of SensorTrend Pro",
+  "description": "A high-performance industrial sensor data visualization dashboard. Features drag-and-drop CSV parsing, synchronized time-series trend analysis, and AI-powered anomaly detection for predictive maintenance.",
+  "requestFramePermissions": []
+}
